@@ -1,0 +1,11 @@
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\bin\Debug\Formulário Inicial.exe.config
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.csprojResolveAssemblyReference.cache
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário_Inicial.Form1.resources
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário_Inicial.Properties.Resources.resources
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.csproj.GenerateResource.Cache
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\bin\Debug\Formulário Inicial.exe
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\bin\Debug\Formulário Inicial.pdb
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.exe
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.pdb
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.csproj.ResolveComReference.cache
+C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário_Inicial.LoginForm.resources

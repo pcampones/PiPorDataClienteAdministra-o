@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<Projeto>
+  <Anos ano="1985">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>46,6</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>46,6</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1986">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1987">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1988">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1989">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1990">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>29,8</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>29,8</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1991">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>27</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>27</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1992">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>24,1</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>24,1</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1993">
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>21,1</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>-</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>21,1</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1994">
+    <Camas>
+      <CamasHospitalGeral>232,3</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>19,3</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>232,3</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>19,3</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1995">
+    <Camas>
+      <CamasHospitalGeral>232,8</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>17,8</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>232,8</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>17,8</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1996">
+    <Camas>
+      <CamasHospitalGeral>233,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>16</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>233,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>16</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1997">
+    <Camas>
+      <CamasHospitalGeral>230,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>15,9</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>230,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>15,9</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1998">
+    <Camas>
+      <CamasHospitalGeral>228,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>13,9</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>228,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>13,9</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="1999">
+    <Camas>
+      <CamasHospitalGeral>232,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>12,4</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>232,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>12,4</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2000">
+    <Camas>
+      <CamasHospitalGeral>233</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>11</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>233</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>11</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2001">
+    <Camas>
+      <CamasHospitalGeral>229,5</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>9,5</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>229,5</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>9,5</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2002">
+    <Camas>
+      <CamasHospitalGeral>226,5</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>8,9</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>226,5</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>8,9</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2003">
+    <Camas>
+      <CamasHospitalGeral>226,6</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>8,4</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>226,6</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>8,4</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2004">
+    <Camas>
+      <CamasHospitalGeral>220,8</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>7,8</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>220,8</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>7,8</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2005">
+    <Camas>
+      <CamasHospitalGeral>223,4</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>6,8</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>223,4</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>6,8</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2006">
+    <Camas>
+      <CamasHospitalGeral>219,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>5,7</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>219,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>5,7</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2007">
+    <Camas>
+      <CamasHospitalGeral>218</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>3,5</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>218</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>3,5</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2008">
+    <Camas>
+      <CamasHospitalGeral>214,9</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>2,5</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>214,9</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>2,5</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2009">
+    <Camas>
+      <CamasHospitalGeral>213,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>1,8</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>213,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>1,8</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2010">
+    <Camas>
+      <CamasHospitalGeral>208,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>1</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>208,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>1</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2011">
+    <Camas>
+      <CamasHospitalGeral>205,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>0,4</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>205,1</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>0,4</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2012">
+    <Camas>
+      <CamasHospitalGeral>215,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>0,2</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>215,2</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>0,2</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos ano="2013">
+    <Camas>
+      <CamasHospitalGeral>208,6</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+    <Camas>
+      <CamasHospitalGeral>208,6</CamasHospitalGeral>
+      <CamasHospitalEspecializados />
+      <CamasCentrodeSaude>-</CamasCentrodeSaude>
+    </Camas>
+  </Anos>
+  <Anos />
+</Projeto>

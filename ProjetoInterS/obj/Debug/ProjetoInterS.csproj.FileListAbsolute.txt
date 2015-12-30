@@ -1,0 +1,4 @@
+C:\ProjetoInterS\ProjetoInterS\ProjetoInterS\bin\Debug\ProjetoInterS.dll
+C:\ProjetoInterS\ProjetoInterS\ProjetoInterS\bin\Debug\ProjetoInterS.pdb
+C:\ProjetoInterS\ProjetoInterS\ProjetoInterS\obj\Debug\ProjetoInterS.dll
+C:\ProjetoInterS\ProjetoInterS\ProjetoInterS\obj\Debug\ProjetoInterS.pdb

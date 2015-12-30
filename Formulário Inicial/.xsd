@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchemaDespesasPerCapita"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:complexType name="despesasPerCapitaType">
+    <xs:sequence>
+      <xs:element name="despSnsHab" type="xs:integer"/>
+    </xs:sequence>
+  </xs:complexType>
+
+
+  <xs:complexType name="anoType">
+    <xs:sequence>
+      <xs:element name="despesasPerCapita" type="despesasPerCapitaType" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+    <xs:attribute name="ano" type="xs:integer"/>
+  </xs:complexType>
+
+  <xs:complexType name="projetoType">
+    <xs:sequence>
+      <xs:element name="ano" type="anoType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name ="ano" type="xs:integer"/>
+  </xs:complexType>
+
+  <xs:element name="projeto" type="projetoType"/>
+</xs:schema>
