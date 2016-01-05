@@ -1187,10 +1187,12 @@ namespace Formulário_Inicial
                  
                     }
                 }
+
+                Validator(output);
                 Service1Client ser = new Service1Client();
                 ser.ReceberXml(output);
 
-                // Validator(output);
+                
             }
             else
             {
@@ -1286,8 +1288,8 @@ namespace Formulário_Inicial
                 string s = x.ToString();
 
 
-
-               bool a =  serv.ReceberXml(s);
+                Validator(s);
+                bool a =  serv.ReceberXml(s);
                 if (a == true)
                 {
                     MessageBox.Show("Enviado com sucesso para o servidor");
