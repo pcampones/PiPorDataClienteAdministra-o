@@ -62,5 +62,11 @@ namespace Formulário_Inicial
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            userTextBox.Clear();
+            passTextBox.Clear();
+        }
     }
 }
