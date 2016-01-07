@@ -9,3 +9,7 @@ C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial
 C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.pdb
 C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário Inicial.csproj.ResolveComReference.cache
 C:\ProjetoInterS\ProjetoInterS\Formulário Inicial\obj\Debug\Formulário_Inicial.LoginForm.resources
+C:\Users\Pedro Camponês\Documents\GitHubVisualStudio\PiPorDataClienteAdministra-o\Formulário Inicial\bin\Debug\Formulário Inicial.exe.config
+C:\Users\Pedro Camponês\Documents\GitHubVisualStudio\PiPorDataClienteAdministra-o\Formulário Inicial\obj\Debug\Formulário Inicial.csproj.ResolveComReference.cache
+C:\Users\Pedro Camponês\Documents\GitHubVisualStudio\PiPorDataClienteAdministra-o\Formulário Inicial\obj\Debug\Formulário Inicial.exe
+C:\Users\Pedro Camponês\Documents\GitHubVisualStudio\PiPorDataClienteAdministra-o\Formulário Inicial\obj\Debug\Formulário Inicial.pdb
